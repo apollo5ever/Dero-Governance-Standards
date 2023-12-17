@@ -46,9 +46,9 @@ An oligarchic DAO has no Chief Executive. Only a board of trustees. Contract cha
 
 #### Roles
 - Trustees
-  - Hires/Fires Chief Executive in accordance with constitution
-  - Determines Chief Executive's access to funds
-  - Votes on contract changes
+  - Votes to change contract
+  - Votes to direct funds
+  - Votes to hire/fire employees
 - Participants (opptional)
   - Votes to express popular will
   - Voting power to elect new board (optional)
